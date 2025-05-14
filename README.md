@@ -15,8 +15,8 @@ You have been tasked with analyzing the available data to identify:
 - Create a graph outlining the percentage of Confirmed Fraud to False Positive based on Fraud Model Reason (fictitious example: vpn_review accounts for 50% Confirmed Fraud and 50% False positive) 
 - Which rule produces the highest number of false positives?
 - Build a model to replace the rule identified in question #3 using the model evaluation metrics below. (Hint: Focus on False positive and confirmed fraud population.)  
-  Sample Model evaluation metrics: Recall, AUC-ROC, Accuracy  
-  You are welcome to provide any other performance metrics as you see fit
+---  Sample Model evaluation metrics: Recall, AUC-ROC, Accuracy  
+---  You are welcome to provide any other performance metrics as you see fit
 - Are there any features or data points that are missing from this dataset that you would have liked to have?
 
 ---
@@ -33,7 +33,7 @@ You may use any tool that uses Python and R. Below are some free options but fee
 ---
 
 ## Dataset:
-Please download the data and metadata within this repo: 
+Please download the data and metadata within this repository
 
 ---
 
